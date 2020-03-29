@@ -1,3 +1,11 @@
+[Home](https://mgcodesandstats.github.io/) |
+[Medium](https://medium.com/@firstclassanalyticsmg) |
+[LinkedIn](https://www.linkedin.com/in/michaeljgrogan/) |
+[GitHub](https://github.com/mgcodesandstats) |
+[Speaking Engagements](https://mgcodesandstats.github.io/speaking-engagements/) |
+[Terms](https://mgcodesandstats.github.io/terms/) |
+[E-mail](mailto:contact@michael-grogan.com)
+
 # Modelling Volatile Time Series with LSTM Networks
 
 Here is an illustration of how a long-short term memory network (LSTM) can be used to model a volatile time series.
