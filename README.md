@@ -143,19 +143,19 @@ The prediction results are compared against the validation set on the basis of M
 >>> rmse = sqrt(mse)
 >>> print('RMSE: %f' % rmse)
 
-RMSE: 49.99
+RMSE: 48.391206
 
 >>> forecast_error = (predictions-Y_val)
 >>> forecast_error
 >>> mean_forecast_error = np.mean(forecast_error)
 >>> mean_forecast_error
 
--1.267682231556286
+-0.2871358004483323
 ```
 
 - **MDA:** 0.909
-- **RMSE:** 49.99
-- **MFE:** -1.26
+- **RMSE:** 48.39
+- **MFE:** -0.2871
 
 ## Predicting against test data
 
@@ -173,8 +173,8 @@ Xnew = np.array([tseries.iloc[592:712],tseries.iloc[593:713],tseries.iloc[594:71
 The obtained results are as follows:
 
 - **MDA:** 0.8
-- **RMSE:** 49.57
-- **MFE:** -6.94
+- **RMSE:** 56.45
+- **MFE:** -19.84
 
 With the mean rainfall for the last 10 months having come in at 148.93 mm, the forecast accuracy has shown similar performance to that of the validation set, and errors are low relative to the mean rainfall computed across the test set.
 
