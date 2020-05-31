@@ -8,7 +8,7 @@
 
 Here is an illustration of how a long-short term memory network (LSTM) can be used to model a volatile time series.
 
-Yearly rainfall data can be quite volatile. Unlike temperature, which typically demonstrates a clear trend through the seasons, rainfall as a time series can be quite volatile. In Ireland, it is not uncommon for summer months to see as much rain as that of winter months.
+Yearly rainfall data can be inherently volatile. Unlike temperature, which typically demonstrates a clear trend through the seasons, rainfall as a time series can be quite volatile. In Ireland, it is not uncommon for summer months to see as much rain as that of winter months.
 
 Here is a graphical illustration of rainfall patterns from November 1959 for Newport, Ireland:
 
