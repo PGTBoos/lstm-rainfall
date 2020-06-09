@@ -102,7 +102,11 @@ The actual variance (in blue) is plotted against the predicted variance (in oran
 
 ## Conclusion
 
-This has been an introduction to ARCH modelling and forecasting of time series volatility using this model. As mentioned, it is often used when forecasting volatile time series that are not suitable for analysis using standard time series modelling techniques such as ARIMA. For more detail on this topic, I recommend the tutorial from Machine Learning Mastery which is cited below. Many thanks for your time, and the associated repository for this example can be found [here](https://github.com/MGCodesandStats/lstm-rainfall).
+This has been an introduction to ARCH modelling and forecasting of time series volatility using this model.
+
+As mentioned, it is often used when forecasting volatile time series that are not suitable for analysis using standard time series modelling techniques such as ARIMA. For more detail on this topic, I recommend the tutorial from Machine Learning Mastery which is cited below.
+
+Many thanks for your time, and the associated repository for this example can be found [here](https://github.com/MGCodesandStats/lstm-rainfall).
 
 ## Other References
 
